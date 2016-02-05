@@ -1,6 +1,6 @@
 /*
-**  CLHT.EXE is a Command Line Hyper Terminal tool that allow user
-**  to communicate with windows COM ports from CLI interface.
+**  CLHT.EXE is a Command Line Hyper Terminal tool that allows user
+**  to communicate with COM ports from the Windows CLI interface.
 **
 **  powered by CodeDim 07/2015
 */
