@@ -5,7 +5,7 @@
 
  Usage:
 
-		clht.exe COMn[:speed] [/f data.cfg] [string]
+		clht.exe COMn[:speed] [string | /f data.cfg]
 
  Exemples:
 
